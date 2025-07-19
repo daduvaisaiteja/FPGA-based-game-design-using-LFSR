@@ -49,17 +49,6 @@ module lfsr(
 
 endmodule
 
-//assign dotball = delivery & ((shift[3:0] == 3) | (shift[3:0] == 4) | (shift[3:0] == 5) | (shift[3:0] == 6));
-//assign single = delivery & ((shift[3:0] == 3) | (shift[3:0] == 4) | (shift[3:0] == 5) | (shift[3:0] == 6));
-//assign double = delivery & ((shift[3:0] == 7) | (shift[3:0] == 8) | (shift[3:0] == 9));
-//assign triple = delivery & (shift[3:0] == 10);
-//assign fours = delivery & (shift[3:0] == 11);
-//assign sixes = delivery & (shift[3:0] == 12);
-//assign wideball = delivery & (shift[3:0] == 13);
-//assign noball = delivery & (shift[3:0] == 14);
-
-//assign wicket = delivery & (shift[3:0] == 15);
-
 module score_and_wickets(
     input clk_fpga,
     input reset,
