@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="impl_1" LaunchPart="xc7s50csga324-1" LaunchTime="1759907244">
+  <File Type="PA-TCL" Name="CricketGame_TopModule.tcl"/>
+  <File Type="REPORTS-TCL" Name="CricketGame_TopModule_reports.tcl"/>
+  <File Type="INIT-TIMING" Name="CricketGame_TopModule_timing_summary_init.rpt"/>
+  <File Type="OPT-DCP" Name="CricketGame_TopModule_opt.dcp"/>
+  <File Type="OPT-DRC" Name="CricketGame_TopModule_drc_opted.rpt"/>
+  <File Type="OPT-METHODOLOGY-DRC" Name="CricketGame_TopModule_methodology_drc_opted.rpt"/>
+  <File Type="OPT-HWDEF" Name="CricketGame_TopModule.hwdef"/>
+  <File Type="OPT-TIMING" Name="CricketGame_TopModule_timing_summary_opted.rpt"/>
+  <File Type="OPT-RQA-PB" Name="CricketGame_TopModule_rqa_opted.pb"/>
+  <File Type="PWROPT-DCP" Name="CricketGame_TopModule_pwropt.dcp"/>
+  <File Type="PWROPT-DRC" Name="CricketGame_TopModule_drc_pwropted.rpt"/>
+  <File Type="PWROPT-TIMING" Name="CricketGame_TopModule_timing_summary_pwropted.rpt"/>
+  <File Type="PLACE-DCP" Name="CricketGame_TopModule_placed.dcp"/>
+  <File Type="PLACE-IO" Name="CricketGame_TopModule_io_placed.rpt"/>
+  <File Type="PLACE-CLK" Name="CricketGame_TopModule_clock_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL" Name="CricketGame_TopModule_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL-PB" Name="CricketGame_TopModule_utilization_placed.pb"/>
+  <File Type="PLACE-CTRL" Name="CricketGame_TopModule_control_sets_placed.rpt"/>
+  <File Type="PLACE-SIMILARITY" Name="CricketGame_TopModule_incremental_reuse_placed.rpt"/>
+  <File Type="PLACE-PRE-SIMILARITY" Name="CricketGame_TopModule_incremental_reuse_pre_placed.rpt"/>
+  <File Type="PLACE-TIMING" Name="CricketGame_TopModule_timing_summary_placed.rpt"/>
+  <File Type="PLACE-RQA-PB" Name="CricketGame_TopModule_rqa_placed.pb"/>
+  <File Type="POSTPLACE-PWROPT-DCP" Name="CricketGame_TopModule_postplace_pwropt.dcp"/>
+  <File Type="POSTPLACE-PWROPT-TIMING" Name="CricketGame_TopModule_timing_summary_postplace_pwropted.rpt"/>
+  <File Type="PHYSOPT-DCP" Name="CricketGame_TopModule_physopt.dcp"/>
+  <File Type="PHYSOPT-DRC" Name="CricketGame_TopModule_drc_physopted.rpt"/>
+  <File Type="PHYSOPT-TIMING" Name="CricketGame_TopModule_timing_summary_physopted.rpt"/>
+  <File Type="ROUTE-ERROR-DCP" Name="CricketGame_TopModule_routed_error.dcp"/>
+  <File Type="ROUTE-DCP" Name="CricketGame_TopModule_routed.dcp"/>
+  <File Type="ROUTE-BLACKBOX-DCP" Name="CricketGame_TopModule_routed_bb.dcp"/>
+  <File Type="ROUTE-DRC" Name="CricketGame_TopModule_drc_routed.rpt"/>
+  <File Type="ROUTE-DRC-PB" Name="CricketGame_TopModule_drc_routed.pb"/>
+  <File Type="ROUTE-DRC-RPX" Name="CricketGame_TopModule_drc_routed.rpx"/>
+  <File Type="ROUTE-METHODOLOGY-DRC" Name="CricketGame_TopModule_methodology_drc_routed.rpt"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="CricketGame_TopModule_methodology_drc_routed.rpx"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="CricketGame_TopModule_methodology_drc_routed.pb"/>
+  <File Type="ROUTE-PWR" Name="CricketGame_TopModule_power_routed.rpt"/>
+  <File Type="ROUTE-PWR-SUM" Name="CricketGame_TopModule_power_summary_routed.pb"/>
+  <File Type="ROUTE-PWR-RPX" Name="CricketGame_TopModule_power_routed.rpx"/>
+  <File Type="ROUTE-STATUS" Name="CricketGame_TopModule_route_status.rpt"/>
+  <File Type="ROUTE-STATUS-PB" Name="CricketGame_TopModule_route_status.pb"/>
+  <File Type="ROUTE-TIMINGSUMMARY" Name="CricketGame_TopModule_timing_summary_routed.rpt"/>
+  <File Type="ROUTE-TIMING-PB" Name="CricketGame_TopModule_timing_summary_routed.pb"/>
+  <File Type="ROUTE-TIMING-RPX" Name="CricketGame_TopModule_timing_summary_routed.rpx"/>
+  <File Type="ROUTE-SIMILARITY" Name="CricketGame_TopModule_incremental_reuse_routed.rpt"/>
+  <File Type="ROUTE-CLK" Name="CricketGame_TopModule_clock_utilization_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW" Name="CricketGame_TopModule_bus_skew_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW-PB" Name="CricketGame_TopModule_bus_skew_routed.pb"/>
+  <File Type="ROUTE-BUS-SKEW-RPX" Name="CricketGame_TopModule_bus_skew_routed.rpx"/>
+  <File Type="ROUTE-RQS-PB" Name="CricketGame_TopModule_rqs_routed.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-DCP" Name="CricketGame_TopModule_postroute_physopt.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-BLACKBOX-DCP" Name="CricketGame_TopModule_postroute_physopt_bb.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING" Name="CricketGame_timing_summary_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-PB" Name="CricketGame_timing_summary_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-RPX" Name="CricketGame_timing_summary_postroute_physopted.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW" Name="CricketGame_bus_skew_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-PB" Name="CricketGame_bus_skew_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-RPX" Name="CricketGame_bus_skew_postroute_physopted.rpx"/>
+  <File Type="BG-BIT" Name="CricketGame_TopModule.bit"/>
+  <File Type="BG-BIN" Name="CricketGame_TopModule.bin"/>
+  <File Type="BITSTR-MSK" Name="CricketGame_TopModule.msk"/>
+  <File Type="BITSTR-RBT" Name="CricketGame_TopModule.rbt"/>
+  <File Type="BITSTR-NKY" Name="CricketGame_TopModule.nky"/>
+  <File Type="BITSTR-BMM" Name="CricketGame_TopModule_bd.bmm"/>
+  <File Type="BITSTR-MMI" Name="CricketGame_TopModule.mmi"/>
+  <File Type="PDI-FILE" Name="CricketGame_TopModule.pdi"/>
+  <File Type="BOOT-PDI-FILE" Name="CricketGame_TopModule_boot.pdi"/>
+  <File Type="PL-PDI-FILE" Name="CricketGame_TopModule_pld.pdi"/>
+  <File Type="RCFI_FILE" Name="CricketGame_TopModule.rcfi"/>
+  <File Type="CFI_FILE" Name="CricketGame_TopModule.cfi"/>
+  <File Type="RNPI_FILE" Name="CricketGame_TopModule.rnpi"/>
+  <File Type="NPI_FILE" Name="CricketGame_TopModule.npi"/>
+  <File Type="RBD_FILE" Name="CricketGame_TopModule.rbd"/>
+  <File Type="BITSTR-LTX" Name="debug_nets.ltx"/>
+  <File Type="BITSTR-LTX" Name="CricketGame_TopModule.ltx"/>
+  <File Type="BITSTR-SYSDEF" Name="CricketGame_TopModule.sysdef"/>
+  <File Type="BG-BGN" Name="CricketGame_TopModule.bgn"/>
+  <File Type="BG-DRC" Name="CricketGame_TopModule.drc"/>
+  <File Type="RDI-RDI" Name="CricketGame_TopModule.vdi"/>
+  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
+  <File Type="ROUTE-RQS" Name="CricketGame_TopModule_routed.rqs"/>
+  <File Type="POSTROUTE-PHYSOPT-RQS" Name="CricketGame_TopModule_postroute_physopted.rqs"/>
+  <File Type="ROUTE-RQS-RPT" Name="route_report_qor_suggestions_0.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-RQS-RPT" Name="postroute_physopt_report_qor_suggestions_0.rpt"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1" RelGenDir="$PGENDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PSRCDIR/sources_1/new/bcd7seg.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/bcdDisplay.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/binary_to_BCD.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/cricketGame.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/debounce.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/decoder2to4.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/led_controller.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/lfsr.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/score_and_wickets.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/score_comparator.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/scroll_Leds.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/slowClock_1kHz.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/Cricket.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="CricketGame_TopModule"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1" RelGenDir="$PGENDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <File Path="$PSRCDIR/constrs_1/new/game_design.xdc">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="TargetConstrsFile" Val="$PSRCDIR/constrs_1/new/game_design.xdc"/>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="utils" Type="Utils" RelSrcDir="$PSRCDIR/utils_1" RelGenDir="$PGENDIR/utils_1">
+    <Filter Type="Utils"/>
+    <File Path="$PSRCDIR/utils_1/imports/synth_1/Cricket.dcp">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedInSteps" Val="synth_1"/>
+        <Attr Name="AutoDcp" Val="1"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2024"/>
+    <Step Id="init_design"/>
+    <Step Id="opt_design"/>
+    <Step Id="power_opt_design"/>
+    <Step Id="place_design"/>
+    <Step Id="post_place_power_opt_design"/>
+    <Step Id="phys_opt_design"/>
+    <Step Id="route_design"/>
+    <Step Id="post_route_phys_opt_design"/>
+    <Step Id="write_bitstream"/>
+  </Strategy>
+</GenRun>

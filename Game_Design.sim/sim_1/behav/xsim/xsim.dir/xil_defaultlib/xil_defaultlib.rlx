@@ -1,0 +1,18 @@
+0.7
+2020.2
+Nov  8 2024
+22:36:57
+C:/Users/dsait/vivadoprojects/CricketGame/Game_Design/Game_Design.sim/sim_1/behav/xsim/glbl.v,1724786425,verilog,,,,glbl,,,,,,,,
+C:/Users/dsait/vivadoprojects/CricketGame/Game_Design/Game_Design.srcs/sources_1/new/Cricket.v,1746356496,verilog,,,,CricketGame_TopModule,,,,,,,,
+C:/Users/dsait/vivadoprojects/CricketGame/Game_Design/Game_Design.srcs/sources_1/new/bcd7seg.v,1749208410,verilog,,C:/Users/dsait/vivadoprojects/CricketGame/Game_Design/Game_Design.srcs/sources_1/new/bcdDisplay.v,,bcd7seg,,,,,,,,
+C:/Users/dsait/vivadoprojects/CricketGame/Game_Design/Game_Design.srcs/sources_1/new/bcdDisplay.v,1746357153,verilog,,C:/Users/dsait/vivadoprojects/CricketGame/Game_Design/Game_Design.srcs/sources_1/new/binary_to_BCD.v,,bcdDisplay,,,,,,,,
+C:/Users/dsait/vivadoprojects/CricketGame/Game_Design/Game_Design.srcs/sources_1/new/binary_to_BCD.v,1746348480,verilog,,C:/Users/dsait/vivadoprojects/CricketGame/Game_Design/Game_Design.srcs/sources_1/new/cricketGame.v,,binary_to_BCD,,,,,,,,
+C:/Users/dsait/vivadoprojects/CricketGame/Game_Design/Game_Design.srcs/sources_1/new/cricketGame.v,1749187422,verilog,,C:/Users/dsait/vivadoprojects/CricketGame/Game_Design/Game_Design.srcs/sources_1/new/debounce.v,,CricketGame,,,,,,,,
+C:/Users/dsait/vivadoprojects/CricketGame/Game_Design/Game_Design.srcs/sources_1/new/debounce.v,1746352523,verilog,,C:/Users/dsait/vivadoprojects/CricketGame/Game_Design/Game_Design.srcs/sources_1/new/decoder2to4.v,,debounce,,,,,,,,
+C:/Users/dsait/vivadoprojects/CricketGame/Game_Design/Game_Design.srcs/sources_1/new/decoder2to4.v,1746355258,verilog,,C:/Users/dsait/vivadoprojects/CricketGame/Game_Design/Game_Design.srcs/sources_1/new/led_controller.v,,decoder2to4;mux4to1,,,,,,,,
+C:/Users/dsait/vivadoprojects/CricketGame/Game_Design/Game_Design.srcs/sources_1/new/led_controller.v,1749283902,verilog,,C:/Users/dsait/vivadoprojects/CricketGame/Game_Design/Game_Design.srcs/sources_1/new/lfsr.v,,led_controller,,,,,,,,
+C:/Users/dsait/vivadoprojects/CricketGame/Game_Design/Game_Design.srcs/sources_1/new/lfsr.v,1749187241,verilog,,C:/Users/dsait/vivadoprojects/CricketGame/Game_Design/Game_Design.srcs/sources_1/new/score_and_wickets.v,,lfsr,,,,,,,,
+C:/Users/dsait/vivadoprojects/CricketGame/Game_Design/Game_Design.srcs/sources_1/new/score_and_wickets.v,1746263756,verilog,,C:/Users/dsait/vivadoprojects/CricketGame/Game_Design/Game_Design.srcs/sources_1/new/score_comparator.v,,score_and_wickets,,,,,,,,
+C:/Users/dsait/vivadoprojects/CricketGame/Game_Design/Game_Design.srcs/sources_1/new/score_comparator.v,1746343030,verilog,,C:/Users/dsait/vivadoprojects/CricketGame/Game_Design/Game_Design.srcs/sources_1/new/scroll_Leds.v,,score_comparator,,,,,,,,
+C:/Users/dsait/vivadoprojects/CricketGame/Game_Design/Game_Design.srcs/sources_1/new/scroll_Leds.v,1746345757,verilog,,C:/Users/dsait/vivadoprojects/CricketGame/Game_Design/Game_Design.srcs/sources_1/new/cricketGame.v,,scroll_Leds;slowClock_10Hz,,,,,,,,
+C:/Users/dsait/vivadoprojects/CricketGame/Game_Design/Game_Design.srcs/sources_1/new/slowClock_1kHz.v,1746349150,verilog,,C:/Users/dsait/vivadoprojects/CricketGame/Game_Design/Game_Design.srcs/sources_1/new/Cricket.v,,slowClock_1kHz;two_bit_counter,,,,,,,,
